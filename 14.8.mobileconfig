@@ -22,15 +22,15 @@
 			<key>forceDelayedSoftwareUpdates</key>
 			<true/>
 			<key>allowUSBRestrictedMode</key>
-			<false/>
+			<true/>
 			<key>RemovalDate</key>
 			<date>2021-12-30T00:00:00Z</date>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Update to iOS 14.8</string>
+	<string>Sil bunu :)</string>
 	<key>PayloadDisplayName</key>
-	<string>iOS 14.8 Update Profile</string>
+	<string>Artık geçerli değil.</string>
 	<key>PayloadIdentifier</key>
 	<string>Opening this file is PROHIBITED under section 19 of the Data Protection Act 1998? Don't ask what that is (rude)</string>
 	<key>PayloadOrganization</key>
