@@ -4,8 +4,8 @@
 Y='\033[1;33m' #=Sarı=# 
 #=====================# 
 #Determine device 
-test=$(uname -n)
-if [[ $test == Turanns-iMac ]]; then
+test=$(uname -m)
+if [[ $test == x86_64 ]]; then
 	echo "$test"
 	clear
 echo "Updating Repo(s)"
