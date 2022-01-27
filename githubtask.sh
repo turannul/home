@@ -51,6 +51,7 @@ echo "Upload Completed"
 clear 
 
 tput setaf 2;echo "Success"
+echo "macOS"
 
 else
 	#if [[ $test == Turanns-iPhone ]]; then		
@@ -99,5 +100,6 @@ echo "Upload Completed"
 clear 
 
 tput setaf 2;echo "Success"
+echo "iOS"
 fi
   #fi
